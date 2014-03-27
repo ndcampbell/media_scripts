@@ -1,4 +1,4 @@
-media_scrpts
+media_scripts
 ============
 
-different media scripts, like music organizer ,g
+different media scripts, like music organizer
